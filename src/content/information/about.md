@@ -38,7 +38,7 @@ removeBlur = false
 
 - DHE Discord. Most communications are carried here.
 - Head of State and the High Council members.
-        - Imperator Kranzy: Kranzy#1373
+	- Imperator Kranzy: Kranzy#1373
 	- High-Council Saxtreme: Saxtreme#1133
 	- High-Council ElectricEvader: ElectricEvader#3564
 	- High-Council xXvPendragonvXx ("Pendragon"): xXvPendragonvXx#1255
