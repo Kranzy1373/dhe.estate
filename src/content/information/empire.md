@@ -53,7 +53,7 @@ Ministries:
 High Council:
   <br>
 - High Council President:
-  [(Vacant)](http://namemc.com)
+Vacant
   <br>
 - High Council Members:
   [XxTomasVxX](http://namemc.com/profile/1d408d8c-0818-4a92-9dac-078e7691dbfd),
