@@ -35,19 +35,19 @@ removeBlur = false
 
 Head of State:
 <br>
-- Imperator: [Kranzy](https://de.namemc.com/profile/ce088023-21fa-493a-b080-c8177879bf4f)
+- Imperator: [Kranzy](http://namemc.com/profile/ce088023-21fa-493a-b080-c8177879bf4f)
 <br>
-- Consuls: [`_Beowulf__`](https://de.namemc.com/profile/8594530c-e565-4225-ae35-e64474092cb3)
+- Consuls: [`_Beowulf__`](http://namemc.com/profile/8594530c-e565-4225-ae35-e64474092cb3)
   and
-  [TescosPlasticBag](https://de.namemc.com/profile/60ac5d06-7808-4337-8143-65b50edc30b5)
+  [TescosPlasticBag](http://namemc.com/profile/60ac5d06-7808-4337-8143-65b50edc30b5)
 
 
 Ministries:
 <br>
 - Counterintelligence:
-  [FunkyCauldron](https://de.namemc.com/profile/dfa5ef89-af2b-4f06-ad8f-736bc0067c15)
+  [FunkyCauldron](http://namemc.com/profile/dfa5ef89-af2b-4f06-ad8f-736bc0067c15)
 - Propaganda:  
-  [AngelOfTheAether](https://de.namemc.com/profile/918ba36b-199a-4036-aceb-d064728c3990)
+  [AngelOfTheAether](http://namemc.com/profile/918ba36b-199a-4036-aceb-d064728c3990)
 
 
 High Council:
